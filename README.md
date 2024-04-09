@@ -1,5 +1,6 @@
 # SQL
 SQL- Structured Query Language
+
 Basic SQL
 Advanced SQL
 Joins in SQL
