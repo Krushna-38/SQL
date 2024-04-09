@@ -27,7 +27,7 @@ Create Table/Insert Value
 
 Update/Delete
 
-psycopg2
+psycopg2:-
 
       Connect Python with Database
       Create Table in Python using SQL query
